@@ -1,0 +1,15 @@
+print("My address is"" 23\\navi mumbai,""\"Gandhi\"nagar\\times office")
+print("------------\nProfile\n=============")
+print("Name:Ani\nAge:21\nGender:Female\nDepartrment:Finace\nPercentage:50.0%")
+print("/\/\/\/\/\/\/\/\/\\")
+print("------------")
+
+Name="Ani"
+Age=21
+Gender="Female"
+Department="Finace"
+Percentage="50.0%"
+print("------------\nProfile\n=============")
+print(f"Name: {Name}\nAge: {Age}\nGender: {Gender}\nDepartment: {Department}\nPercertage: {Percentage}")
+print("/\/\/\/\/\/\/\/\/\\")
+print("------------")
